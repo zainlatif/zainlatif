@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Zain Latif
+# 👋 Hy, I'm Zain Latif
 
-**Software Engineer | MERN Stack Developer | AI Enthusiast | CS Graduate (GCUF 2021-25)**  
+**Software Engineer | MERN Stack Developer | AI Enthusiast **  
 📍 Samanabad, Faisalabad, Pakistan  
 📧 [zainlatif702@gmail.com](mailto:zainlatif702@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/zainlatif702) • [GitHub](https://github.com/zainlatif) • 📱 +92 323 7668916
@@ -18,13 +18,6 @@ Aspiring software engineer with hands-on experience in full-stack web developmen
 **Govt College University Faisalabad (GCUF)**  
 _Bachelor of Science in Computer Science (2021 – 2025)_  
 - Key Courses: Data Structures & Algorithms, Machine Learning, Artificial Intelligence, OOP, Database, Statistics
-
-**Govt Laboratory High School Samanabad Faisalabad**  
-_Intermediate in ICS (2019 – 2021)_
-
-**Govt MC High School Samanabad Faisalabad**  
-_Matric in Computer Science (2017 – 2019)_
-
 ---
 
 ## 💻 Projects
@@ -57,7 +50,7 @@ _Matric in Computer Science (2017 – 2019)_
 **Languages:** JavaScript, Python, Java, C++, HTML/CSS, SQL  
 **Web/Frameworks:** Node.js, React.js, Bootstrap  
 **Tools:** Git, Jupyter Notebooks, Android Studio, VS Code, Postman  
-**Others:** Graphic Design, Adobe Illustrator, Photoshop
+**Others:** Figma, Adobe XD, Adobe Illustrator, Photoshop
 
 ---
 
