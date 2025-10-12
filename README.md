@@ -41,7 +41,8 @@ _Bachelor of Science in Computer Science (2021 – 2025)_
 - **Python Programming Fundamentals** – HackerRank
 - **Problem Solving Certificate** – HackerRank
 - **React Basics** – HackerRank
-- **Graphic Designing** – SMIT Faisalabad
+- **Rest Api** – HackerRank
+
 
 ---
 
