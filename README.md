@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Web Developer | MERN Stack | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:zainlatif702@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainlatif702@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
   <a href="https://wa.me/+923237668916">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
