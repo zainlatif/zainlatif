@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Latif</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Data Analyst | ML trainer</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainlatif702@gmail.com" target="_blank">
