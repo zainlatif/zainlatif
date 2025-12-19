@@ -35,11 +35,8 @@ Currently expanding my knowledge in backend scaling, authentication, and deploym
 #### 📱 [Phone Finder AI](https://github.com/zainlatif/phone-finder-ai)
 AI-powered smartphone recommendation system built with **React, Node.js, Flask**, and **Machine Learning**.
 
-#### 💈 [Beautix Saloon Website (PHP)](https://github.com/zainlatif/beautix-saloon-website)
-Responsive salon booking platform with admin panel, built using **PHP, MySQL, HTML, CSS, JS**.
-
-#### 📰 [Tech Blog & Review Platform](#)
-Full-stack blog and review system featuring authentication, CRUD APIs, and comment management. *(In Progress)*
+#### 💈 [Phone recommendation Model (AI)](https://github.com/zainlatif/phonefinderai-v6)
+AI-powered phone recommendation system using Flask, Machine Learning, and Waitress. Classifies user queries and suggests the best smartphones based on their needs.**.
 
 ---
 
