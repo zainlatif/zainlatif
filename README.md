@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Latif</h1>
-<h3 align="center">Full Stack Web Developer | Data Analyst | AI/ML </h3>
+<h3 align="center">Full Stack Web Developer | Data Analyst | ML </h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainlatif702@gmail.com" target="_blank">
@@ -37,7 +37,15 @@ I focus on creating end-to-end solutions: from data collection and ML model trai
 AI-powered smartphone recommendation system built with **React, Node.js, Flask**, and **Machine Learning**.
 
 #### 💈 [Phone recommendation Model (AI)](https://github.com/zainlatif/phonefinderai-v6)
-AI-powered phone recommendation system using Flask, Machine Learning, and Waitress. Classifies user queries and suggests the best smartphones based on their needs.**.
+AI-powered phone recommendation system using Machine Learning and Mern-Stack. Classifies user queries and suggests the best smartphones based on their needs.**.
+
+---
+
+### 🏢 Companies I've Worked With
+
+- **Cybex IT Solutions Ltd.** — [LinkedIn](https://www.linkedin.com/company/cybex-it-solutions-ltd/)
+- **Gravixta** — [gravixta.com](https://gravixta.com)
+- **Excelerate** — [Experience platform](https://experience.4excelerate.org/Excelerate/Explore)
 
 ---
 
