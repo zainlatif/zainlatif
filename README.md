@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a Full Stack Web Developer, Data Analyst, and ML Trainer passionate about building clean, functional, and data-driven web applications.
+I'm a Full Stack Web Developer, Data Specialist about building clean, functional, and data-driven web applications.
 I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have hands-on experience integrating AI and Python-based Machine Learning models into real-world web systems.
 I focus on creating end-to-end solutions: from data collection and ML model training to API integration and frontend deployment.
 
