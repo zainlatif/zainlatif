@@ -46,6 +46,7 @@ AI-powered phone recommendation system using Machine Learning and Mern-Stack. Cl
 - **Cybex IT Solutions Ltd.** — [LinkedIn](https://www.linkedin.com/company/cybex-it-solutions-ltd/)
 - **Gravixta** — [gravixta.com](https://gravixta.com)
 - **Excelerate** — [Experience platform](https://experience.4excelerate.org/Excelerate/Explore)
+- **CodeAlpha** — [codealpha.tech](https://codealpha.tech/)
 
 ---
 
