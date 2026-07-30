@@ -61,16 +61,12 @@ AI-powered phone recommendation system using Machine Learning and Mern-Stack. Cl
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=zainlatif&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainlatif&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainlatif&theme=tokyonight&hide_border=true" width="51%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainlatif&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainlatif&theme=tokyo-night&hide_border=true" width="60%" />
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainlatif&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainlatif&theme=tokyo-night&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zainlatif&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
 
