@@ -56,16 +56,23 @@ AI-powered phone recommendation system using Machine Learning and Mern-Stack. Cl
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainlatif&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainlatif&layout=compact&theme=react&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainlatif&theme=react&hide_border=true" height="165"/>
-</p>
+<img src="https://github-stats-extended.vercel.app/api?username=zainlatif&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainlatif&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainlatif&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainlatif&theme=tokyo-night&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zainlatif&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+
+</div>
 
 ---
 
