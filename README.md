@@ -64,7 +64,7 @@ AI-powered phone recommendation system using Machine Learning and Mern-Stack. Cl
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zainlatif&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainlatif&theme=react&hide_border=true" height="165"/>
 </p>
 
 ---
