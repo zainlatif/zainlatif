@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Latif</h1>
-<h3 align="center">Full Stack Web Developer | Data Analyst | ML </h3>
+<h3 align="center"> Data Analyst | Software Developer </h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainlatif702@gmail.com" target="_blank">
@@ -19,15 +19,12 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a Data Analyst and building clean, functional, and data-driven web applications.
-I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have hands-on experience integrating AI and Python-based Machine Learning models into real-world web systems.
-I focus on creating end-to-end solutions: from data collection and ML model training to API integration and frontend deployment.
+I'm a Computer Science graduate focused on Full-Stack Development, Data Analytics, and AI/ML. I build practical web applications using the MERN stack, Python, SQL, and machine learning, with experience connecting data and ML models to real-world applications.
 
-🔭 I’m currently working on: Phone Finder AI (MERN + Flask + ML integration)
-
-🌱 I’m currently learning: Redux, Power BI dashboards, and Cloud Deployment (Vercel / Render)
-
-💬 Ask me about: Full-stack architecture, REST APIs, data analysis, ML model deployment  
+🔭 Building: AI-powered web applications and data-driven projects
+🧠 Focus: MERN Stack · Python · SQL · Data Analytics · Machine Learning
+⚡ Interested in: AI integration, backend development, APIs, and data-driven systems
+📫 Open to: Software Development · Data Analytics · AI/ML opportunities  
 
 ---
 
@@ -50,9 +47,64 @@ AI-powered phone recommendation system using Machine Learning and Mern-Stack. Cl
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,php,python,django,flask,vite,git,github,figma,postman,vscode&perline=10)](https://github.com/zainlatif)
+<div align="center">
+
+<strong>Primary Languages</strong>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<strong>Web Development</strong>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge)
+
+<strong>Databases</strong>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<strong>Data Analytics</strong>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<strong>Machine Learning / AI</strong>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Basic-6A1B9A?style=for-the-badge)
+
+<strong>Tools</strong>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
