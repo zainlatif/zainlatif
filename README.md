@@ -18,13 +18,19 @@
 
 ---
 
-### 👨‍💻 About Me  
-I'm a Computer Science graduate focused on Full-Stack Development, Data Analytics, and AI/ML. I build practical web applications using the MERN stack, Python, SQL, and machine learning, with experience connecting data and ML models to real-world applications.
+### 👨‍💻 About Me
 
-🔭 Building: AI-powered web applications and data-driven projects
-🧠 Focus: MERN Stack · Python · SQL · Data Analytics · Machine Learning
-⚡ Interested in: AI integration, backend development, APIs, and data-driven systems
-📫 Open to: Software Development · Data Analytics · AI/ML opportunities  
+<div align="center">
+
+I'm a Computer Science graduate focused on <strong>Full-Stack Development</strong>, <strong>Data Analytics</strong>, and <strong>AI/ML</strong>.<br>
+I build practical web applications using <strong>MERN</strong>, <strong>Python</strong>, <strong>SQL</strong>, and machine learning, with experience connecting data and ML models to real-world applications.
+
+</div>
+
+- 🔭 Building: AI-powered web applications and data-driven projects
+- 🧠 Focus: MERN Stack · Python · SQL · Data Analytics · Machine Learning
+- ⚡ Interested in: AI integration, backend development, APIs, and data-driven systems
+- 📫 Open to: Software Development · Data Analytics · AI/ML opportunities
 
 ---
 
