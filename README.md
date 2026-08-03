@@ -50,6 +50,7 @@ AI-powered phone recommendation system using Machine Learning and Mern-Stack. Cl
 - **Gravixta** — [gravixta.com](https://gravixta.com)
 - **Excelerate** — [Experience platform](https://experience.4excelerate.org/Excelerate/Explore)
 - **CodeAlpha** — [codealpha.tech](https://codealpha.tech/)
+- **Syntecxhub** — [syntecxhub.com](syntecxhub.com)
 
 ---
 
